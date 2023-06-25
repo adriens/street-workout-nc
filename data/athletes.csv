@@ -1,24 +1,24 @@
-instagram_handle,nickname,weight_kgs,dob,genre
-rastadidi1,AD,83,1974-12-25,M
-chris_wildbarz,Mr Mcdôl,,,M
-benoit.rd,Beubeu,,,M
-ghettobarz,El patron,,,M
-,Elastic Man,,,M
-,Thanh,,,M
-,Giorafe,,,M
-,Diddy Kong,,,M
-,Phamos,,,M
-,Grolard,,,M
-,Enzo,,,M
-,Gregory,,,M
-,Raphael,,,M
-,Hadolf,,,M
-,Juju,,,M
-,Jason statham claqué au sol,,,M
-,L'onculer,,,M
-,Juan Caledonia,,,M
-vllnt.laura,Laura,,,F
-,Angie,,,F
-,Daniel,,,M
-,Ugo,,,M
-,Shana,,,F
+instagram_handle,nickname,weight_kgs,dob,genre,is_wildbarz_member
+rastadidi1,AD,83,1974-12-25,M,False
+chris_wildbarz,Mr Mcdôl,,,M,True
+benoit.rd,Beubeu,,,M,
+ghettobarz,El patron,,,M,True
+,Elastic Man,,,M,
+,Thanh,,,M,True
+,Giorafe,,,M,
+,Diddy Kong,,,M,
+,Phamos,,,M,
+,Grolard,,,M,
+,Enzo,,,M,
+,Gregory,,,M,
+,Raphael,,,M,
+,Hadolf,,,M,
+,Juju,,,M,
+,Jason statham claqué au sol,,,M,
+,L'onculer,,,M,
+,Juan Caledonia,,,M,
+vllnt.laura,Laura,,,F,
+,Angie,,,F,
+,Daniel,,,M,
+,Ugo,,,M,
+,Shana,,,F,
