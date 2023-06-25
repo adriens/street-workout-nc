@@ -1,6 +1,7 @@
-id,date,category,has_freestyle,has_set_and_reps,has_statics,has_beginners_track,has_experts_track,description,url,proce_money_xpf
-RASSO#1,2021-06-27,RASSO,True,False,True,,,,https://youtu.be/2eSZwcjohGE,
-SWCC#4,2023-09-03,CONTEST,True,True,,True,True,,,80000
-SWCC#3,,CONTEST,,,,,,,https://youtu.be/tqDYj3FBWto,
-SWCC#2,,CONTEST,,,,,,,,
-SWCC#1,,CONTEST,,,,,,,,
+id,date,title,has_freestyle,has_set_and_reps,has_statics,has_beginners_track,has_experts_track,description,url,proce_money_xpf
+RASSO#1,2021-06-27,,True,False,True,,,,https://youtu.be/2eSZwcjohGE,
+SWCC#4,2023-09-03,,True,True,,True,True,,,80000
+SWCC#3,,,,,,,,,https://youtu.be/tqDYj3FBWto,
+SWCC#2,,,,,,,,,,
+SWCC#1,,,,,,,,,,
+SWCC#5,2023-12-17," Battle of titans",,,,,,,,
